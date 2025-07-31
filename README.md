@@ -8,7 +8,7 @@ Hommy Designは、日本の美意識とグローバルなデザイン原則を�
 
 ## デモサイト / Demo Site
 
-[View the Hommy Design Philosophy](https://your-username.github.io/hommy-design/design-philosophy.html)
+[View the Hommy Design Philosophy](https://yskmtt.github.io/hommy-design/design-philosophy.html)
 
 ## 特徴 / Features
 
@@ -21,7 +21,7 @@ Hommy Designは、日本の美意識とグローバルなデザイン原則を�
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/hommy-design.git
+git clone https://github.com/YSKMTT/hommy-design.git
 
 # Navigate to the directory
 cd hommy-design
